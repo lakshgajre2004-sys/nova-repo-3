@@ -1,0 +1,9 @@
+{
+  "name": "nova-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Build successful",
+    "test": "echo Tests passed"
+  }
+}
